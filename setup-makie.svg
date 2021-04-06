@@ -26,7 +26,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
      inkscape:cx="131.87286"
-     inkscape:cy="90.716407"
+     inkscape:cy="90.211331"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -275,7 +275,7 @@
          x="132.052"
          y="104.21548"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.42291px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.225954"
-         id="tspan2447">Server</tspan></text>
+         id="tspan2447">server</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.225954px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 75.146508,65.960231 V 45.401018"
@@ -319,7 +319,7 @@
          id="tspan936"
          x="69.626312"
          y="33.081715"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.42291px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.225954">JSServe Server spawned by WGLMakie</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.42291px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.225954">JSServe server spawned by WGLMakie</tspan></text>
     <image
        width="5.5671954"
        height="5.1191587"
